@@ -5,7 +5,7 @@ Hybrid app for pet localization
   <td width="33%">
 <h3 align="center">Login</h3>
 <div align="center">
-<img src="https://i.imgur.com/9S0T7om.jpeg" width="250" alt="pet qr login">
+<img src="https://i.imgur.com/AD34000.jpeg" width="300" alt="pet qr login"> 
   
 
 
@@ -16,7 +16,7 @@ Hybrid app for pet localization
 <td width="33%">
 <h3 align="center">Home</h3>
 <div align="center">
-<img src="https://i.imgur.com/29N6Xci.jpeg" width="250" alt="pet qr home">
+<img src="https://i.imgur.com/EvPOqgN.jpeg" width="300" alt="pet qr home"> 
   
 
 
@@ -25,9 +25,9 @@ Hybrid app for pet localization
 </td>
 
 <td width="33%">
-<h3 align="center">Map</h3>
+<h3 align="center">Task completed detail</h3>
 <div align="center">                                       
-<img src="https://i.imgur.com/FVYga0y.jpeg" width="250" alt="pet qr map">
+<img src="https://i.imgur.com/sF1dJBS.jpeg" width="300" alt="pet qr map">
 <br>
 
 
