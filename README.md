@@ -1,5 +1,13 @@
 # taskapp
 Hybrid app for task management
+<h3 align="left">Tools and technologies</h3>
+<ul>
+  <li>Ionic</li>
+  <li>Angular</li>
+  <li>Laravel</li>
+  <li>Eloquent</li>
+  <li>CSS</li>
+</ul>
 <table>
 <tr>
   <td width="33%">
