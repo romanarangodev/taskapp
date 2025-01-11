@@ -1,5 +1,5 @@
 # taskapp
-Hybrid app for pet localization
+Hybrid app for task management
 <table>
 <tr>
   <td width="33%">
