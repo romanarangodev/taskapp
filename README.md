@@ -67,7 +67,7 @@ Hybrid app for task management
   <td>
 <h3 align="center">Web view tasks details</h3>
 <div align="center">
-<img src="https://imgur.com/a/y1kmLPr.png" width="500" alt="taskapp detail"> 
+<img src="https://i.imgur.com/fj4mEoV.png" width="500" alt="taskapp detail"> 
 </div>                                                                                     
 </td>
 </tr>
