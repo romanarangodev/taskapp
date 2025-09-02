@@ -44,12 +44,12 @@ Hybrid app for task management
 </tr>
 </table> 
 
-<table>
+<table witdh=¨100%¨>
 <tr>
   <td>
 <h3 align="center">Web view dashboard</h3>
 <div align="center">
-<img src="https://imgur.com/a/NRtAoSx.png" width="500" alt="taskapp dashboard"> 
+<img src="https://i.imgur.com/THle806.png" width="500" alt="taskapp dashboard"> 
 </div>                                                                                     
 </td>
 </tr>
@@ -58,7 +58,7 @@ Hybrid app for task management
   <td>
 <h3 align="center">Web view create task</h3>
 <div align="center">
-<img src="https://imgur.com/a/COHHa4K.png" width="500" alt="taskapp create"> 
+<img src="https://i.imgur.com/LPkxZh1.png" width="500" alt="taskapp create"> 
 </div>                                                                                     
 </td>
 </tr>
