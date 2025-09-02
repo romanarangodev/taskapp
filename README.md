@@ -7,6 +7,7 @@ Hybrid app for task management
   <li>Laravel</li>
   <li>Eloquent</li>
   <li>CSS</li>
+  <li>JWT Authentication</li>
 </ul>
 <table>
 <tr>
