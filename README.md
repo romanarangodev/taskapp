@@ -49,7 +49,7 @@ Hybrid app for task management
   <td>
 <h3 align="center">Web view dashboard</h3>
 <div align="center">
-<img src="https://imgur.com/a/NRtAoSx" width="500" alt="taskapp dashboard"> 
+<img src="https://imgur.com/a/NRtAoSx.png" width="500" alt="taskapp dashboard"> 
 </div>                                                                                     
 </td>
 </tr>
@@ -58,7 +58,7 @@ Hybrid app for task management
   <td>
 <h3 align="center">Web view create task</h3>
 <div align="center">
-<img src="https://imgur.com/a/COHHa4K" width="500" alt="taskapp create"> 
+<img src="https://imgur.com/a/COHHa4K.png" width="500" alt="taskapp create"> 
 </div>                                                                                     
 </td>
 </tr>
@@ -67,7 +67,7 @@ Hybrid app for task management
   <td>
 <h3 align="center">Web view tasks details</h3>
 <div align="center">
-<img src="https://imgur.com/a/y1kmLPr" width="500" alt="taskapp detail"> 
+<img src="https://imgur.com/a/y1kmLPr.png" width="500" alt="taskapp detail"> 
 </div>                                                                                     
 </td>
 </tr>
